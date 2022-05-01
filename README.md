@@ -3,9 +3,13 @@ Trabalho Prático do Módulo 01 do bootcamp de Node JS
 
 Objetivos
 Exercitar os seguintes conceitos trabalhados no Módulo:
+
 ✔ Criação de um projeto Node.js.
+
 ✔ Manipulação de arquivos.
+
 ✔ Manipulação de objetos JSON.
+
 ✔ Criação de endpoints com Express.
 
 Enunciado
